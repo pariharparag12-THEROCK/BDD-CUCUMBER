@@ -17,7 +17,7 @@ import io.cucumber.testng.CucumberOptions;
 						//tags = "(@sanity or @functional) and (not @regression)"
 						
 						/*
-						 * [If we use tags in hooks class then we cannot use that tags here in runner]
+						 * [If we use tags in hooks class then we cannot use that tags keyword here in runner]
 						 */
 						
 						//tags ="@profile" 
